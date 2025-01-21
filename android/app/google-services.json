@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1060841207883",
+    "firebase_url": "https://rmutt-secb-3f0cb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rmutt-secb-3f0cb",
+    "storage_bucket": "rmutt-secb-3f0cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060841207883:android:81d78340476d2ad60635ce",
+        "android_client_info": {
+          "package_name": "com.example.onlineapp_chayanin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpZdexwMsjLdCc5u9ONOIZi0fdAbGTN_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
